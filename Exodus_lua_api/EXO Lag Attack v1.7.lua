@@ -98,4 +98,3 @@ end)
   
 script.keep_alive()
 
---0xA385E1C7-ship guma2 replace veh2 with this for more inteseity but wont lag fagatude with this hash 
